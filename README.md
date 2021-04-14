@@ -23,7 +23,7 @@
 	- 01 الأمر git init الجزء الأول
 	- 02 الأمر git init الجزء الثاني
 - Ch04 : مراحل الملفات | Git Stages
-		-  01 مفهوم Git Stages
+		- 01 مفهوم Git Stages
 		- 02 الأمر git status
 		- 03 الأمر git add
 		- 04 تهيئة Git
