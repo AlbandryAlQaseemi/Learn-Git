@@ -23,14 +23,14 @@
 	- 01 الأمر git init الجزء الأول
 	- 02 الأمر git init الجزء الثاني
 - Ch04 : مراحل الملفات | Git Stages
-		- 01 مفهوم Git Stages
-		- 02 الأمر git status
-		- 03 الأمر git add
-		- 04 تهيئة Git
-		- 05 الأمر git commit
-		- 06 تحديث رسالة commit
-		- 07 إعادة الملفات من مرحلة Staged
-		- 08 إخفاء الملفات بإستخدام الأمر gitignore
+	- 01 مفهوم Git Stages
+	- 02 الأمر git status
+	- 03 الأمر git add
+	- 04 تهيئة Git
+	- 05 الأمر git commit
+	- 06 تحديث رسالة commit
+	- 07 إعادة الملفات من مرحلة Staged
+	- 08 إخفاء الملفات بإستخدام الأمر gitignore
 - Ch05 : استعراض تاريخ المشروع | Git log
 	- 01 الأمر git log
 	- 02 الأمر git log --oneline
