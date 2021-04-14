@@ -9,7 +9,7 @@
  <dir>
 
 
-# <div dir=rtl> TOC:
+# <div dir=rtl> :TOC
 
 - Ch01 : مقدمة في الـ Git
 - Ch02 : تحميل الأدوات
